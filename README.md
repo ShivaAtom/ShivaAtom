@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋, soy JaquinGV</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3><h3 align="left">Conéctate conmigo:</h3><p align="left">
-</p><h3 align="left">Lenguajes y herramientas:</h3>
+<h1 align="center">Hola 👋, soy JaquinGV</h1><h3 align="center">Un apasionado desarrollador frontend de México</h3><h3 align="center">Lenguajes y herramientas:</h3>
 
 
 
