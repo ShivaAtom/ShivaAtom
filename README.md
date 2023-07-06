@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy JaquinGV</h1>
+<h1 align="center">Hi 👋, I am JaquinGV</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 <p align="left">Hey there! I'm a young developer on GitHub, eager to learn and share my insights with the community. I'm always excited to dive into thrilling projects and discover new technologies and development approaches.
 
