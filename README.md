@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I am JaquinGV</h1>
-<h3 align="center">Un apasionado desarrollador frontend de México</h3>
-<p align="center">Hey there! I'm a young developer on GitHub, eager to learn and share my insights with the community. I'm always excited to dive into thrilling projects and discover new technologies and development approaches.</p>
+<h3 align="center">A passionate developer from Mexico</h3>
+<p align="left">Hey there! I'm a young developer on GitHub, eager to learn and share my insights with the community. I'm always excited to dive into thrilling projects and discover new technologies and development approaches.</p>
 
-<p align="center">My GitHub profile is like my personal lab, where I experiment with code and design innovative solutions. If you choose to follow me, you'll be joining me on this exciting journey of learning and growth.</p>
+<p align="left">My GitHub profile is like my personal lab, where I experiment with code and design innovative solutions. If you choose to follow me, you'll be joining me on this exciting journey of learning and growth.</p>
 
-<p align="center">Beyond my thirst for knowledge, I love sharing my discoveries with fellow developers. Through my repositories and contributions on GitHub, I hope to inspire other talented young minds to explore the fascinating world of programming and encourage them to take bold steps of their own.</p>
+<p align="left">Beyond my thirst for knowledge, I love sharing my discoveries with fellow developers. Through my repositories and contributions on GitHub, I hope to inspire other talented young minds to explore the fascinating world of programming and encourage them to take bold steps of their own.</p>
 
-<p align="center">In a nutshell, if you're looking for a spirited development companion, you've come to the right place! Together, we can build a vibrant and enriching development ecosystem, where collaboration and knowledge-sharing are the key ingredients for success.</p>
+<p align="left">In a nutshell, if you're looking for a spirited development companion, you've come to the right place! Together, we can build a vibrant and enriching development ecosystem, where collaboration and knowledge-sharing are the key ingredients for success.</p>
 
-<p align="center">So join me on GitHub and get ready to embark on an exhilarating coding adventure. I'm thrilled to learn and grow together as we leave a positive impact on the developer community.</p>
+<p align="left">So join me on GitHub and get ready to embark on an exhilarating coding adventure. I'm thrilled to learn and grow together as we leave a positive impact on the developer community.</p>
 
 <h2 align='center'>Let's make every line of code count and have a blast creating something awesome!</h2>
-<h3 align="center">Lenguajes y herramientas:</h3>
+<h3 align="center">Languages and tools:</h3>
 
 
 
