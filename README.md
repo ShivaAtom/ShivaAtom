@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy JaquinGV</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
-<p align="center">Hey there! I'm a young developer on GitHub, eager to learn and share my insights with the community. I'm always excited to dive into thrilling projects and discover new technologies and development approaches.
+<p align="left">Hey there! I'm a young developer on GitHub, eager to learn and share my insights with the community. I'm always excited to dive into thrilling projects and discover new technologies and development approaches.
 
 My GitHub profile is like my personal lab, where I experiment with code and design innovative solutions. If you choose to follow me, you'll be joining me on this exciting journey of learning and growth.
 
