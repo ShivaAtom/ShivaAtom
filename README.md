@@ -1,21 +1,62 @@
-# Jaquin Gonzalez - Fullstack Web Developer
+# Fullstack Web Developer Profile
 
-Soy desarrollador web Fullstack apasionado por construir aplicaciones modernas, escalables y con excelente experiencia de usuario.  
-Tengo experiencia en tecnologías frontend y backend, así como en bases de datos, lo que me permite diseñar soluciones completas y eficientes.  
-Me enfoco en aprender constantemente y entregar código limpio y mantenible que aporta valor real a los proyectos.
+Desarrollador web Fullstack con experiencia en el diseño e implementación de aplicaciones modernas y escalables.  
+Me especializo en tecnologías frontend, backend, bases de datos y desarrollo de APIs robustas.  
+Apasionado por el aprendizaje continuo, buenas prácticas y la creación de software que aporta valor real.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-| Frontend               | Backend               | Base de Datos       | Frameworks / Librerías       |
-|-----------------------|-----------------------|---------------------|-----------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  | ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)  |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  | ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  | ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)  |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)  |
-| ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)  | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  |                     | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)  |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dot-net&logoColor=white)  |                     |                             |
+### Lenguajes de Programación
+
+| Lenguaje     | Icono                                              | Frameworks / Ecosistema                         |
+|--------------|---------------------------------------------------|-----------------------------------------------|
+| JavaScript   | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | React, Vue.js, Angular, Node.js, Next.js, Nuxt.js  |
+| TypeScript   | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  | Angular, NestJS, Deno                         |
+| Python       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)     | Django, Flask, FastAPI                         |
+| Java         | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)           | Spring Boot, Jakarta EE                        |
+| C#           | ![C#](https://img.shields.io/badge/C_Sharp-239120?logo=c-sharp&logoColor=white)       | .NET Core, ASP.NET                            |
+| C++          | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)          | Qt, Boost                                     |
+| Rust         | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)           | Actix, Rocket                                 |
+| Lua          | ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)              | LÖVE, OpenResty                               |
+| Web          | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)        | CSS3, Tailwind CSS, Bootstrap                 |
+
+---
+
+### Frameworks y Librerías Populares
+
+| Framework / Librería          | Uso Principal                                |
+|------------------------------|---------------------------------------------|
+| React                        | Desarrollo frontend SPA                      |
+| Vue.js                       | Framework progresivo para interfaces        |
+| Angular                      | Framework completo para frontend             |
+| Node.js                      | Backend basado en JavaScript                 |
+| Express                      | Framework minimalista para Node.js backend  |
+| NestJS                       | Framework backend basado en TypeScript       |
+| Django                      | Framework backend Python                      |
+| Flask                       | Microframework Python                         |
+| FastAPI                     | API rápido con Python                         |
+| Spring Boot                 | Framework backend Java                        |
+| .NET Core                   | Desarrollo backend con C#                     |
+| Laravel                     | Framework PHP para backend                    |
+| Prisma                      | ORM para bases de datos                       |
+| Mongoose                    | ODM para MongoDB                              |
+| Socket.io                   | Comunicación en tiempo real                    |
+
+---
+
+### Bases de Datos
+
+| Base de Datos                | Tipo                        |
+|-----------------------------|-----------------------------|
+| PostgreSQL                  | Relacional                  |
+| MySQL                       | Relacional                  |
+| SQLite                      | Relacional, ligera          |
+| MongoDB                     | NoSQL, documental          |
+| SQL Server                  | Relacional                  |
+| Redis                       | Base de datos en memoria    |
+| Cassandra                   | NoSQL, columna ancha        |
 
 ---
 
@@ -31,6 +72,14 @@ Me enfoco en aprender constantemente y entregar código limpio y mantenible que 
 
 Estoy abierto a colaboraciones, proyectos y nuevas oportunidades.  
 Puedes contactarme vía LinkedIn o correo electrónico.
+
+---
+
+## 💖 Apoya mi trabajo
+
+Si quieres apoyarme y ayudarme a seguir creando contenido y proyectos, puedes hacer una donación:
+
+[![PayPal Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate/link_a_tu_cuenta)
 
 ---
 
