@@ -73,12 +73,20 @@ Mi objetivo es crear software que sea eficiente, escalable y fácil de mantener,
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-Estoy abierto a colaboraciones, proyectos y nuevas oportunidades.  
-Puedes contactarme vía LinkedIn o correo electrónico.
+Puedes conectarte conmigo en las siguientes plataformas:
+
+| Plataforma | Enlace                         |
+|------------|--------------------------------|
+| LinkedIn   | [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)  |
+| Facebook   | [facebook.com/tu-usuario](https://facebook.com/tu-usuario)        |
+| Instagram  | [instagram.com/tu-usuario](https://instagram.com/tu-usuario)      |
+| Twitter    | [twitter.com/tu-usuario](https://twitter.com/tu-usuario)          |
+| GitHub     | [github.com/tu-usuario](https://github.com/tu-usuario)            |
 
 ---
+
 
 ## 💖 Apoya mi trabajo
 
@@ -87,5 +95,3 @@ Si quieres apoyarme y ayudarme a seguir creando contenido y proyectos, puedes ha
 [![PayPal Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate/link_a_tu_cuenta)
 
 ---
-
-_Gracias por visitar mi perfil._
