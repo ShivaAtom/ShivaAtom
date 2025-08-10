@@ -1,9 +1,14 @@
-# Fullstack Web Developer Profile
+# Fullstack Web Developer
 
-Desarrollador web Fullstack con experiencia en el diseño e implementación de aplicaciones modernas y escalables.  
-Me especializo en tecnologías frontend, backend, bases de datos y desarrollo de APIs robustas.  
-Apasionado por el aprendizaje continuo, buenas prácticas y la creación de software que aporta valor real.
+Soy un desarrollador de software con amplia experiencia en desarrollo web, móvil y de escritorio. Mi enfoque principal está en el desarrollo web fullstack, abarcando desde la creación de APIs robustas y escalables hasta interfaces de usuario modernas y responsivas.
 
+Trabajo con tecnologías modernas para construir aplicaciones completas, desde el frontend (React, Vue, Angular) hasta el backend (Node.js, .NET, Python, Java) y bases de datos (SQL, NoSQL). Tengo experiencia en la implementación de sistemas seguros con autenticación, autorización y comunicación en tiempo real.
+
+Además del desarrollo web, he trabajado en aplicaciones móviles multiplataforma y soluciones de software de escritorio, usando frameworks y tecnologías como Flutter, Electron y más.
+
+Estoy en constante aprendizaje y exploración en áreas emergentes como la inteligencia artificial y el aprendizaje automático, integrando modelos y servicios de IA para mejorar la experiencia de usuario y la automatización.
+
+Mi objetivo es crear software que sea eficiente, escalable y fácil de mantener, siempre enfocado en la calidad, buenas prácticas y la satisfacción del usuario final.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
